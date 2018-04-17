@@ -45,9 +45,11 @@ Segment Tree(线段树) 是一种可以用来进行基于区间的操作的数�
 创建、修改和查询Segment Tree的时间复杂度都是logn级别的，所以如果一道题能被转化成求在某个范围内满足某种条件，都可以用Segment Tree来做（比如找出比某个数大的，小的etc.）。
 
 这题的follow up：
- + 247 Segment Tree Query I
- + 248 Count of Smaller Number
- + 249 Count of Smaller Number before itself 
+
+ + [247. Segment Tree Query II](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91247.%20Segment%20Tree%20Query%20II.md)
+ + [248 Count of Smaller Number](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91248.%20Count%20of%20Smaller%20Number%20.md)
+ + [249 Count of Smaller Number before itself ](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Hard%E3%80%91249.%20Count%20of%20Smaller%20Number%20before%20itself.md)
+
 
 ## 核心代码
 
