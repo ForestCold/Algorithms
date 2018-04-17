@@ -11,11 +11,15 @@ For array [1,2,7,8,5], and queries [1,8,5], return [0,4,2]
 
 ## 解题思路
 
-结合 201. Segment Tree Build 和 247. Segment Tree Query II。
+结合建树和查询：
+
+ + [201. Segment Tree Build](https://github.com/ForestCold/Algorithms/edit/master/%E3%80%90Medium%E3%80%91201.%20Segment%20Tree%20Build.md)
+ + [247. Segment Tree Query II](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91247.%20Segment%20Tree%20Query%20II.md)
 
 这题的follow up：
 
- + 249 Count of Smaller Number before itself 
+ + [249 Count of Smaller Number before itself ](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Hard%E3%80%91249.%20Count%20of%20Smaller%20Number%20before%20itself.md)
+ 
 
 ## 时间空间复杂度
 
