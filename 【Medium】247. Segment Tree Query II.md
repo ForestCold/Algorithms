@@ -27,9 +27,13 @@ query(0, 2), return 2
 
 如果查询区间与当前区间不重叠返回0，如果查询区间包含当前区间返回当前区间的值，如果有交集切分递归。
 
+建树操作：
+
+ + [201. Segment Tree Build](https://github.com/ForestCold/Algorithms/edit/master/%E3%80%90Medium%E3%80%91201.%20Segment%20Tree%20Build.md)
+
 这题的follow up：
- + 248 Count of Smaller Number
- + 249 Count of Smaller Number before itself 
+ + [248 Count of Smaller Number](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91248.%20Count%20of%20Smaller%20Number%20.md)
+ + [249 Count of Smaller Number before itself ](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Hard%E3%80%91249.%20Count%20of%20Smaller%20Number%20before%20itself.md)
 
 ## 核心代码
 
