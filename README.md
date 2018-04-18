@@ -89,7 +89,7 @@
 ## Mathmatic 数学运算
 
      a. bitwise
-     b. 二分
+     b. 二分
 
 + **加法**
 
