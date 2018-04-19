@@ -12,6 +12,8 @@
 
 + **单个不限定长度**
 
+      prefixSum
+
 > [041. Maximum Subarray](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Easy%E3%80%91041.%20Maximum%20Subarray.md)
 >
 >[044. Minimum Subarray](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Easy%E3%80%91044.%20Minimum%20Subarray.md)
@@ -33,6 +35,8 @@
 >[621. Maximum Subarray V](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Hard%E3%80%91621.%20Maximum%20Subarray%20V.md)
 
 + **多个不相交**
+
+      扫描分割线
 
 >[042. Maximum Subarray II](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91042.%20Maximum%20Subarray%20II.md)
 >
@@ -115,8 +119,8 @@
 
 ## Mathmatic 数学运算
 
-     a. bitwise
-     b. 二分
+        a. bitwise
+        b. 二分
 
 + **加法**
 
