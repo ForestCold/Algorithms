@@ -19,7 +19,6 @@ they both have the largest sum 7.
 首先用两个数组left和right记录从左向右扫描的最大子数组和和从右向左扫描的最大子数组和，即left[i]表示0到i之间的最大子数组和，right[i]表示i到n - 1之间的最大子数组和。当扫描分割线时，left[i]表示分割线左边能取到的最大子数组和，
 right[i + 1]表示分割线右边能取到的最大子数组和。
 
-这题的follow up：
 
 ## 核心代码
         
