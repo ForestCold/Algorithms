@@ -34,7 +34,7 @@
 >
 >[620. Maximum Subarray IV](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91620.%20Maximum%20Subarray%20IV.md)
 >
->[621. Maximum Subarray V.md](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Hard%E3%80%91621.%20Maximum%20Subarray%20V.md)
+>[621. Maximum Subarray V](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Hard%E3%80%91621.%20Maximum%20Subarray%20V.md)
 
 + **多个不相交**
 
@@ -124,6 +124,9 @@
 + **开方**
 
 > [141. Sqrt(x)](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Easy%E3%80%91141.%20Sqrt(x).md)
+>
+> [586. Sqrt(x) II](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91586.%20Sqrt(x)%20II.md)
+
 
 + **除法**
 
@@ -132,7 +135,5 @@
 + **次方**
 
 > [428. Pow(x, n)](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91428.%20Pow(x%2C%20n).md)
->
-> [586. Sqrt(x) II](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91586.%20Sqrt(x)%20II.md)
 
 
