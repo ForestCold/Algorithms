@@ -20,8 +20,6 @@ For [1, 2, -3, 1], return 6.
 类似，求两个没有交集的子数组问题，想到扫描分割线。先求出四个数组leftMin, leftMax, rightMin, rightMax，
 分别存储从左向右扫描到当前位置的最大sum、最小sum, 和从右向左扫描到当前位置的最大sum、最小sum。之后和42题一样扫描分割线找出结果。
 
-这题的follow up：
-
 ## 核心代码
 
         max = Integer.MIN_VALUE;
