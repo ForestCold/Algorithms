@@ -8,114 +8,114 @@
 
   *   单个不限定长度
 
-      *  [041. Maximum Subarray](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Easy%E3%80%91041.%20Maximum%20Subarray.md)
+      *  [【Easy】041. Maximum Subarray.md](【Easy】041. Maximum Subarray.md)
 
-      *  [044. Minimum Subarray](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Easy%E3%80%91044.%20Minimum%20Subarray.md)
+      *  [【Easy】044. Minimum Subarray.md](【Easy】044. Minimum Subarray.md)
 
-      *  [138. Subarray Sum](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Easy%E3%80%91138.%20Subarray%20Sum.md)
+      *  [【Easy】138. Subarray Sum.md](【Easy】138. Subarray Sum.md)
 
-      *  [139. Subarray Sum Closest](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91139.%20Subarray%20Sum%20Closest.md)
+      *  [【Medium】139. Subarray Sum Closest.md](【Medium】139. Subarray Sum Closest.md)
 
-      *  [191. Maximum Product Subarray](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91191.%20Maximum%20Product%20Subarray.md)
+      *  [【Medium】191. Maximum Product Subarray.md](【Medium】191. Maximum Product Subarray.md)
 
-      *  [402. Continuous Subarray Sum](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91402.%20Continuous%20Subarray%20Sum.md)
+      *  [【Medium】402. Continuous Subarray Sum.md](【Medium】402. Continuous Subarray Sum.md)
 
   *   单个限定长度
 
-      *  [617. Maximum Average Subarray II](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91617.%20Maximum%20Average%20Subarray%20II.md)
+      *  [【Medium】617. Maximum Average Subarray II.md](【Medium】617. Maximum Average Subarray II.md)
 
-      *  [620. Maximum Subarray IV](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91620.%20Maximum%20Subarray%20IV.md)
+      *  [【Medium】620. Maximum Subarray IV.md](【Medium】620. Maximum Subarray IV.md)
 
-      *  [621. Maximum Subarray V](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Hard%E3%80%91621.%20Maximum%20Subarray%20V.md)
+      *  [【Hard】621. Maximum Subarray V.md](【Hard】621. Maximum Subarray V.md)
 
   *   多个不相交
 
-      *  [042. Maximum Subarray II](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91042.%20Maximum%20Subarray%20II.md)
+      *  [【Medium】042. Maximum Subarray II.md](【Medium】042. Maximum Subarray II.md)
 
-      *  [045. Maximum Subarray Difference](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91045.%20Maximum%20Subarray%20Difference.md)
+      *  [【Medium】045. Maximum Subarray Difference.md](【Medium】045. Maximum Subarray Difference.md)
 
 *  Two Arrays 双数组
 
   *  交集
 
-      *  [548. Intersection of Two Arrays II](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Easy%E3%80%91548.%20Intersection%20of%20Two%20Arrays%20II.md)
+      *  [【Easy】548. Intersection of Two Arrays II.md](【Easy】548. Intersection of Two Arrays II.md)
 
-*  Interval 区间
+*  Segment 线段
 
   *  Segment Tree 基础
 
-      *  [201. Segment Tree Build](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91201.%20Segment%20Tree%20Build.md)
+      *  [【Medium】201. Segment Tree Build.md](【Medium】201. Segment Tree Build.md)
 
-      *  [202. Segment Tree Query](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91202.%20Segment%20Tree%20Query.md)
+      *  [【Medium】202. Segment Tree Query.md](【Medium】202. Segment Tree Query.md)
 
-      *  [247. Segment Tree Query II](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91247.%20Segment%20Tree%20Query%20II.md)
+      *  [【Medium】247. Segment Tree Query II.md](【Medium】247. Segment Tree Query II.md)
 
-      *  [203. Segment Tree Modify](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91203.%20Segment%20Tree%20Modify.md)
+      *  [【Medium】203. Segment Tree Modify.md](【Medium】203. Segment Tree Modify.md)
 
   *  区间求值
 
-      *  [205. Interval Minimum Number](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91205.%20Interval%20Minimum%20Number.md)
+      *  [【Medium】205. Interval Minimum Number.md](【Medium】205. Interval Minimum Number.md)
 
-      *  [206. Interval Sum](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91206.%20Interval%20Sum.md)
+      *  [【Medium】206. Interval Sum.md](【Medium】206. Interval Sum.md)
 
-      *  [751. John's business](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91751.%20John's%20business.md)
+      *  [【Medium】751. John's business.md](【Medium】751. John's business.md)
 
   *  数字比较
 
-      *  [248. Count of Smaller Number](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91248.%20Count%20of%20Smaller%20Number%20.md)
+      *  [【Medium】248. Count of Smaller Number .md](【Medium】248. Count of Smaller Number .md)
 
-      *   [249. Count of Smaller Number before itself](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Hard%E3%80%91249.%20Count%20of%20Smaller%20Number%20before%20itself.md)
+      *  [【Hard】249. Count of Smaller Number before itself.md](【Hard】249. Count of Smaller Number before itself.md)
 
 
 *  Binary Search 二分法
 
   *  值域二分
 
-      *  [617. Maximum Average Subarray II](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91617.%20Maximum%20Average%20Subarray%20II.md)
+      *  [【Medium】617. Maximum Average Subarray II.md](【Medium】617. Maximum Average Subarray II.md)
 
-      *  [662. Guess Number Game](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Easy%E3%80%91662.%20Guess%20Number%20Game.md)
+      *  [【Easy】662. Guess Number Game.md](【Easy】662. Guess Number Game.md)
 
   *  索引二分
 
-      *   [460. Find K Closest Elements](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91460.%20Find%20K%20Closest%20Elements.md)
+      *   [【Medium】460. Find K Closest Elements.md](【Medium】460. Find K Closest Elements.md)
 
-      *   [824. Single Number IV](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91824.%20Single%20Number%20IV.md)
+      *   [【Medium】824. Single Number IV.md](【Medium】824. Single Number IV.md)
 
 *  Palindrom 回文串
 
   *  验证
 
-      *   [415. Valid Palindrome](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Easy%E3%80%91415.%20Valid%20Palindrome.md)
+      *  [【Easy】415. Valid Palindrome.md](【Easy】415. Valid Palindrome.md)
 
-      *  [891. Valid Palindrome II](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91891.%20Valid%20Palindrome%20II.md)
+      *  [【Medium】891. Valid Palindrome II.md](【Medium】891. Valid Palindrome II.md)
 
-      *  [916. Palindrome Permutation](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Easy%E3%80%91916.%20Palindrome%20Permutation.md)
+      *  [【Easy】916. Palindrome Permutation.md](【Easy】916. Palindrome Permutation.md)
 
   *  求最长
   
-      *  [200. Longest Palindromic Substring](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91200.%20Longest%20Palindromic%20Substring.md)
+      *  [【Medium】200. Longest Palindromic Substring.md](【Medium】200. Longest Palindromic Substring.md)
 
-      *  [627. Longest Palindrome](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Easy%E3%80%91627.%20Longest%20Palindrome.md)
+      *  [【Easy】627. Longest Palindrome.md](【Easy】627. Longest Palindrome.md)
 
 
 *  Mathmatic 数学运算
 
   *  加法
 
-      *  [1. A + B Problem](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Easy%E3%80%911.%20A%20%2B%20B%20Problem.md)
+      *  [【Easy】001. A + B Problem.md](【Easy】001. A + B Problem.md)
 
   *  开方
 
-      *  [141. Sqrt(x)](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Easy%E3%80%91141.%20Sqrt(x).md)
+      *  [【Easy】141. Sqrt(x).md](【Easy】141. Sqrt(x).md)
 
-      *  [586. Sqrt(x) II](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91586.%20Sqrt(x)%20II.md)
+      *  [【Medium】586. Sqrt(x) II.md](【Medium】586. Sqrt(x) II.md)
 
   *  除法
 
-      *  [414. Divide Two Integers](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91414.%20Divide%20Two%20Integers.md)
+      *  [【Medium】414. Divide Two Integers.md](【Medium】414. Divide Two Integers.md)
 
   *  次方
 
-      *  [428. Pow(x, n)](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91428.%20Pow(x%2C%20n).md)
+      *  [【Medium】428. Pow(x, n).md](【Medium】428. Pow(x, n).md)
 
 
