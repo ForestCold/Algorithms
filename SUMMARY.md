@@ -1,32 +1,26 @@
-# Content
+*  Single Array 单数组
 
-## Single Array 单数组
+  *  **找特殊元素**
 
-+ **找特殊元素**
+      *  [633. Find the Duplicate Number](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91633.%20Find%20the%20Duplicate%20Number.md)
 
-      a. 利用下标（链表找环）
+*  Sub Arrays 子数组
 
-> [633. Find the Duplicate Number](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91633.%20Find%20the%20Duplicate%20Number.md)
+  *   **单个不限定长度**
 
-## Sub Arrays 子数组
+      *  [041. Maximum Subarray](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Easy%E3%80%91041.%20Maximum%20Subarray.md)
 
-+ **单个不限定长度**
+      *  [044. Minimum Subarray](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Easy%E3%80%91044.%20Minimum%20Subarray.md)
 
-      prefixSum
+      *  [138. Subarray Sum](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Easy%E3%80%91138.%20Subarray%20Sum.md)
 
-> [041. Maximum Subarray](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Easy%E3%80%91041.%20Maximum%20Subarray.md)
->
->[044. Minimum Subarray](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Easy%E3%80%91044.%20Minimum%20Subarray.md)
->
->[138. Subarray Sum](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Easy%E3%80%91138.%20Subarray%20Sum.md)
->
->[139. Subarray Sum Closest](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91139.%20Subarray%20Sum%20Closest.md)
->
->[191. Maximum Product Subarray](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91191.%20Maximum%20Product%20Subarray.md)
->
->[402. Continuous Subarray Sum](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91402.%20Continuous%20Subarray%20Sum.md)
+      *  [139. Subarray Sum Closest](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91139.%20Subarray%20Sum%20Closest.md)
 
-+ **单个限定长度**
+      *  [191. Maximum Product Subarray](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91191.%20Maximum%20Product%20Subarray.md)
+
+      *  [402. Continuous Subarray Sum](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91402.%20Continuous%20Subarray%20Sum.md)
+
+*  **单个限定长度**
 
 > [617. Maximum Average Subarray II](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91617.%20Maximum%20Average%20Subarray%20II.md)
 >
