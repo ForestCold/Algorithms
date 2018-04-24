@@ -85,15 +85,11 @@
 
   *  验证
 
-       a. reverse
-       b. 双指针
-
       *   [415. Valid Palindrome](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Easy%E3%80%91415.%20Valid%20Palindrome.md)
 
       *  [891. Valid Palindrome II](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91891.%20Valid%20Palindrome%20II.md)
 
       *  [916. Palindrome Permutation](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Easy%E3%80%91916.%20Palindrome%20Permutation.md)
-
 
   *  求最长
   
