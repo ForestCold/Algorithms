@@ -1,12 +1,12 @@
 *  Single Array 单数组
 
-  *  **找特殊元素**
+  *  找特殊元素
 
       *  [633. Find the Duplicate Number](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91633.%20Find%20the%20Duplicate%20Number.md)
 
 *  Sub Arrays 子数组
 
-  *   **单个不限定长度**
+  *   单个不限定长度
 
       *  [041. Maximum Subarray](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Easy%E3%80%91041.%20Maximum%20Subarray.md)
 
@@ -20,7 +20,7 @@
 
       *  [402. Continuous Subarray Sum](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91402.%20Continuous%20Subarray%20Sum.md)
 
-  *   **单个限定长度**
+  *   单个限定长度
 
       *  [617. Maximum Average Subarray II](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91617.%20Maximum%20Average%20Subarray%20II.md)
 
@@ -28,7 +28,7 @@
 
       *  [621. Maximum Subarray V](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Hard%E3%80%91621.%20Maximum%20Subarray%20V.md)
 
-  *   **多个不相交**
+  *   多个不相交
 
       *  [042. Maximum Subarray II](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91042.%20Maximum%20Subarray%20II.md)
 
