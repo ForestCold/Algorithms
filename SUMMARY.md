@@ -2,7 +2,7 @@
 
   *  找特殊元素
 
-      *  [633. Find the Duplicate Number](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91633.%20Find%20the%20Duplicate%20Number.md)
+      *  [【Medium】633. Find the Duplicate Number](【Medium】633. Find the Duplicate Number.md)
 
 *  Sub Arrays 子数组
 
@@ -36,13 +36,13 @@
 
 *  Two Arrays 双数组
 
-  *  **交集**
+  *  交集
 
       *  [548. Intersection of Two Arrays II](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Easy%E3%80%91548.%20Intersection%20of%20Two%20Arrays%20II.md)
 
 *  Interval 区间
 
-  *  **Segment Tree 基础**
+  *  Segment Tree 基础
 
       *  [201. Segment Tree Build](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91201.%20Segment%20Tree%20Build.md)
 
@@ -52,7 +52,7 @@
 
       *  [203. Segment Tree Modify](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91203.%20Segment%20Tree%20Modify.md)
 
-  *  **区间求值**
+  *  区间求值
 
       *  [205. Interval Minimum Number](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91205.%20Interval%20Minimum%20Number.md)
 
@@ -60,7 +60,7 @@
 
       *  [751. John's business](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91751.%20John's%20business.md)
 
-  *  **数字比较**
+  *  数字比较
 
       *  [248. Count of Smaller Number](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91248.%20Count%20of%20Smaller%20Number%20.md)
 
@@ -69,13 +69,13 @@
 
 *  Binary Search 二分法
 
-  *  **值域二分**
+  *  值域二分
 
       *  [617. Maximum Average Subarray II](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91617.%20Maximum%20Average%20Subarray%20II.md)
 
       *  [662. Guess Number Game](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Easy%E3%80%91662.%20Guess%20Number%20Game.md)
 
-  *  **索引二分**
+  *  索引二分
 
       *   [460. Find K Closest Elements](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91460.%20Find%20K%20Closest%20Elements.md)
 
@@ -83,7 +83,7 @@
 
 *  Palindrom 回文串
 
-  *  **验证**
+  *  验证
 
        a. reverse
        b. 双指针
@@ -95,7 +95,7 @@
       *  [916. Palindrome Permutation](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Easy%E3%80%91916.%20Palindrome%20Permutation.md)
 
 
-  *  **求最长**
+  *  求最长
   
       *  [200. Longest Palindromic Substring](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91200.%20Longest%20Palindromic%20Substring.md)
 
@@ -105,22 +105,22 @@
 *  Mathmatic 数学运算
 
 
-  *  **加法**
+  *  加法
 
       *  [1. A + B Problem](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Easy%E3%80%911.%20A%20%2B%20B%20Problem.md)
 
-  *  **开方**
+  *  开方
 
       *  [141. Sqrt(x)](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Easy%E3%80%91141.%20Sqrt(x).md)
 
       *  [586. Sqrt(x) II](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91586.%20Sqrt(x)%20II.md)
 
 
-  *  **除法**
+  *  除法
 
       *  [414. Divide Two Integers](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91414.%20Divide%20Two%20Integers.md)
 
-  *  **次方**
+  *  次方
 
       *  [428. Pow(x, n)](https://github.com/ForestCold/Algorithms/blob/master/%E3%80%90Medium%E3%80%91428.%20Pow(x%2C%20n).md)
 
