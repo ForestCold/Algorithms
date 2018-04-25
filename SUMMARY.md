@@ -57,7 +57,7 @@
       *  [【Medium】205. Interval Minimum Number](【Medium】205. Interval Minimum Number.md)
 
       *  [【Medium】206. Interval Sum](【Medium】206. Interval Sum.md)
-
+      
       *  [【Medium】751. John's business](【Medium】751. John's business.md)
 
   *  数字比较
