@@ -58,7 +58,7 @@
 
       *  [【Medium】206. Interval Sum](【Medium】206. Interval Sum.md)
       
-      *  [【Medium】751. John's business](【Medium】751. John's business.md)
+      *  [【Medium】751. Johns business](【Medium】751. Johns business.md)
 
   *  数字比较
 
