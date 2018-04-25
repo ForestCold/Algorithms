@@ -66,6 +66,19 @@
 
       *  [【Hard】249. Count of Smaller Number before itself](【Hard】249. Count of Smaller Number before itself.md)
 
+*  Interval 区间
+
+  *  区间排序
+
+      *  [【Easy】920. Meeting Rooms](【Easy】920. Meeting Rooms.md)
+        
+  *  区间交集
+  
+      *  [【Medium】919. Meeting Rooms II](【Medium】919. Meeting Rooms II .md)
+
+  *  Sliding Window 滑动窗口
+
+      *  [【Hard】360. Sliding Window Median](【Hard】360. Sliding Window Median.md)
 
 *  Binary Search 二分法
 
@@ -80,6 +93,22 @@
       *   [【Medium】460. Find K Closest Elements](【Medium】460. Find K Closest Elements.md)
 
       *   [【Medium】824. Single Number IV](【Medium】824. Single Number IV.md)
+ 
+*  Sort 排序
+
+      *   [【Medium】104. Merge K Sorted Lists](【Medium】104. Merge K Sorted Lists.md)
+
+*  Top-K 查询
+
+      *   [【Medium】 613. High Five](【Medium】 613. High Five.md)
+      
+      *   [【Medium】544. Top k Largest Numbers](【Medium】544. Top k Largest Numbers.md)
+      
+      *   [【Medium】545. Top k Largest Numbers II](【Medium】545. Top k Largest Numbers II.md)
+
+      *   [【Medium】606. Kth Largest Element II](【Medium】606. Kth Largest Element II.md)
+      
+      *   [【Medium】612. K Closest Points](【Medium】612. K Closest Points.md)
 
 *  Palindrom 回文串
 
