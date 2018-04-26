@@ -84,9 +84,17 @@
   
       *  [【Medium】 391. Number of Airplanes in the Sky](【Medium】 391. Number of Airplanes in the Sky.md)
       
-      *  [【Medium】919. Meeting Rooms II](【Medium】919. Meeting Rooms II .md)
-
+      *  [【Medium】821. Time Intersection](【Medium】821. Time Intersection.md)
+           
+      *  [【Medium】919. Meeting Rooms II](【Medium】919. Meeting Rooms II.md)
+      
+  *  区间补充
+  
+      *  [【Medium】641. Missing Interval](【Medium】641. Missing Interval.md)
+      
   *  Sliding Window 滑动窗口
+  
+      *  [【Hard】81. Data Stream Median](【Hard】81. Data Stream Median.md)
 
       *  [【Hard】360. Sliding Window Median](【Hard】360. Sliding Window Median.md)
 
@@ -110,7 +118,13 @@
 
 *  Top-K 查询
 
-      *   [【Medium】 613. High Five](【Medium】 613. High Five.md)
+      *   [【Medium】401. Kth Smallest Number in Sorted Matrix](【Medium】401. Kth Smallest Number in Sorted Matrix.md)
+      
+      *   [【Medium】471. Top K Frequent Words](【Medium】471. Top K Frequent Words.md)
+      
+      *   [【Medium】486. Merge K Sorted Arrays](【Medium】486. Merge K Sorted Arrays.md)
+      
+      *   [【Medium】518. Super Ugly Number](【Medium】518. Super Ugly Number.md)
       
       *   [【Medium】544. Top k Largest Numbers](【Medium】544. Top k Largest Numbers.md)
       
@@ -119,7 +133,9 @@
       *   [【Medium】606. Kth Largest Element II](【Medium】606. Kth Largest Element II.md)
       
       *   [【Medium】612. K Closest Points](【Medium】612. K Closest Points.md)
-
+      
+      *   [【Medium】613. High Five](【Medium】 613. High Five.md)
+      
 *  Palindrom 回文串
 
   *  验证
@@ -156,5 +172,11 @@
   *  次方
 
       *  [【Medium】428. Pow(x, n)](【Medium】428. Pow(x, n).md)
+
+*  Data Structure 构造数据结构
+
+  *  heap
+  
+      *  [【Medium】 130. Heapify](【Medium】 130. Heapify.md)
 
 
