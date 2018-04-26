@@ -45,5 +45,5 @@ Given nums = [2,1,1,3,3], return 2.
 
 ## 时间空间复杂度
 
-O(n) + S(1)
+O(nlogn) + S(n)
 *n为数组长度*
