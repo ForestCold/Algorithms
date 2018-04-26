@@ -33,5 +33,8 @@ Given seqA = [(1,2),(10,15)], seqB = [(3,5),(7,9)], return [].
             if (count == 2) start = tmp.get(i).time;
         }
 
+## 时间空间复杂度
+
+O(nlogn) + S(n)
 
 
