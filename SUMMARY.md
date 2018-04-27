@@ -39,6 +39,43 @@
   *  交集
 
       *  [【Easy】548. Intersection of Two Arrays II](【Easy】548. Intersection of Two Arrays II.md)
+      
+*  Linked List 链表
+
+  * 排序
+      
+      *  [【Easy】173. Insertion Sort List](【Easy】173. Insertion Sort List.md)
+      
+  * 找特殊元素
+  
+      *  [【Easy】174. Remove Nth Node From End of List](【Easy】174. Remove Nth Node From End of List.md)
+      
+      *  [【Easy】228. Middle of Linked List](【Easy】228. Middle of Linked List.md)
+      
+      *  [【Medium】960. First Unique Number in a Stream II](【Medium】960. First Unique Number in a Stream II.md)
+  
+  * 原位更改
+  
+      *  [【Easy】112. Remove Duplicates from Sorted List](【Easy】112. Remove Duplicates from Sorted List.md)
+      
+      *  [【Easy】451. Swap Nodes in Pairs](【Easy】451. Swap Nodes in Pairs.md)
+      
+      *  [【Easy】452. Remove Linked List Elements](【Easy】452. Remove Linked List Elements.md)
+      
+      *  [【Easy】822. Reverse Order Storage](【Easy】822. Reverse Order Storage.md)
+  
+  * 模拟操作
+
+      *  [【Easy】167. Add Two Numbers](【Easy】167. Add Two Numbers.md)
+      
+      *  [【Medium】221. Add Two Numbers II](【Medium】221. Add Two Numbers II.md)
+      
+      *  [【Easy】466. Count Linked List Nodes](【Easy】466. Count Linked List Nodes.md)
+      
+      *  [【Medium】223. Palindrome Linked List](【Medium】223. Palindrome Linked List.md)
+      
+      *  [【Medium】904. Plus One Linked List](【Medium】904. Plus One Linked List.md)
+  
 
 *  Segment 线段
 
