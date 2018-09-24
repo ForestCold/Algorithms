@@ -165,7 +165,8 @@
 		- 无重复：两个map，分别从val到index和从index到val，在remove的时候如果不是remove index最大的那个，则把index最大的那个移过来填坑。然后随机的时候随机max.size()。
 	○ 两个stack -> 一个queue: 一个进一个出，出的为空时进的全部倒入出
 	○ 两个queue -> 一个stack: 互相倒，交换指针  
-	13. 多元素交集
+
+# 多元素交集
 	○ Total hamming distance: 就是sum（每一位的1的个数 * 当前位0的个数）， 因此外循环从0到32， 内循环算ones += num[i] & 1 ，ans += ones * (nums.len - ones)，记得内循环每次nums要右移一位
 	
 # 递增递减类
